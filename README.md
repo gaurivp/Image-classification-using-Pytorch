@@ -1,1 +1,1 @@
-# Image-classification-using-Pytorch-and-Tensorflow
+# Image Classification using Pytorch and Tensorflow
